@@ -1,1 +1,1 @@
-# Projects
+# This is code for the app and brains of the project that I completed for my engineering class. The code takes user input for a text field for the location the user is at. Then grabs the real time weather information for that area and sends it to the module for it to be displayed. It shows the temperature, humidity, and Condition Rating for the area. The hardware module is an Arduino nano with a low energy bluetooth module, power switch, LCD screen, and 9v battery.
